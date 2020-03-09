@@ -1,0 +1,706 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+	<!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="date=no" />
+	<meta name="format-detection" content="address=no" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="x-apple-disable-message-reformatting" />
+    <!--[if !mso]><!-->
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i" rel="stylesheet" />
+    <!--<![endif]-->
+	<title>*|MC:SUBJECT|*</title>
+	<!--[if gte mso 9]>
+	<style type="text/css" media="all">
+		sup { font-size: 100% !important; }
+	</style>
+	<![endif]-->
+	
+
+	<style type="text/css" media="screen">
+	
+	
+	
+		/* Linked Styles */
+		body { padding:0 !important; margin:0 !important; display:block !important; min-width:100% !important; width:100% !important; background:#f4f4f4; -webkit-text-size-adjust:none }
+		a { color:#66c7ff; text-decoration:none }
+		p { padding:0 !important; margin:0 !important } 
+		img { -ms-interpolation-mode: bicubic; /* Allow smoother rendering of resized image in Internet Explorer */ }
+		.mcnPreviewText { display: none !important; }
+
+		.cke_editable,
+		.cke_editable a,
+		.cke_editable span,
+		.cke_editable a span { color: #000001 !important; }		
+		/* Mobile styles */
+		@media only screen and (max-device-width: 480px), only screen and (max-width: 480px) {
+		
+		
+			.mobile-shell { width: 100% !important; min-width: 100% !important; }
+			.bg { background-size: 100% auto !important; -webkit-background-size: 100% auto !important; }
+			
+			.text-header,
+			.m-center { text-align: center !important; }
+			
+			.center { margin: 0 auto !important; }
+			.container { padding: 20px 10px !important }
+			
+			.td { width: 100% !important; min-width: 100% !important; }
+
+			.m-br-15 { height: 15px !important; }
+			.p30-15 { padding: 30px 15px !important; }
+			.p40 { padding: 20px !important; }
+
+			.m-td,
+			.m-hide { display: none !important; width: 0 !important; height: 0 !important; font-size: 0 !important; line-height: 0 !important; min-height: 0 !important; }
+
+			.m-block { display: block !important; }
+
+			.fluid-img img { width: 100% !important; max-width: 100% !important; height: auto !important; }
+
+			.column,
+			.column-top,
+			.column-empty,
+			.column-empty2,
+			.column-dir-top { float: left !important; width: 100% !important; display: block !important; }
+			.column-empty { padding-bottom: 10px !important; }
+			.column-empty2 { padding-bottom: 20px !important; }
+			.content-spacing { width: 15px !important; }
+		}
+	</style>
+</head>
+<body class="body" style="padding:0 !important; margin:0 !important; display:block !important; min-width:100% !important; width:100% !important; background:#f4f4f4; -webkit-text-size-adjust:none;">
+<!--*|IF:MC_PREVIEW_TEXT|*-->
+		<!--[if !gte mso 9]><!-->
+		<span class="mcnPreviewText" style="display:none; font-size:0px; line-height:0px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; visibility:hidden; mso-hide:all;">*|MC_PREVIEW_TEXT|*</span>
+		<!--<![endif]-->
+	<!--*|END:IF|*-->
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#f4f4f4">
+		<tr>
+			<td align="center" valign="top">
+				<table width="650" border="0" cellspacing="0" cellpadding="0" class="mobile-shell">
+					<tr>
+						<td class="td container" style="width:650px; min-width:650px; font-size:0pt; line-height:0pt; margin:0; font-weight:normal; padding:0px 0px;">
+							<!-- Header -->
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td style="padding-bottom: 0px;">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td class="p30-15" style="padding: 10px 30px 10px 30px;" bgcolor="#ffffff">
+													<table width="100%" border="0" cellspacing="0" cellpadding="0">
+														<tr>
+															<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="images/contact_us_top_image.jpg" width="70" height="70" mc:edit="image_1" style="max-width:167px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+														
+														<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:center;"><img src="images/babies_r_us_logo.jpg" width="167" height="45" mc:edit="image_1" style="max-width:167px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+														
+                                                         <th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:right;"><img src="images/find_a_store.jpg" width="110" height="70" mc:edit="image_1" style="max-width:167px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+							<!-- END Header -->
+
+							<!-- Two Columns / Images -->
+							<div mc:repeatable="Select" mc:variant="Two Columns / Images">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<tr>
+										<td style="padding-bottom: 0px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<th class="column-top" width="400" bgcolor="#ffffff" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="fluid-img p20" style="font-size:0pt; line-height:0pt; text-align:left; padding:0px;"><img src="images/featured_product.jpg" width="390" height="250" mc:edit="image_2" style="max-width:390px;" border="0" alt="" /></td>
+															</tr>
+														</table>
+													</th>
+													<th class="column-empty2" width="1" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;"></th>
+													<th class="column-top" width="200" bgcolor="#ffffff" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="fluid-img p20" style="font-size:0pt; line-height:0pt; text-align:left; padding:0px;"><img src="images/blog_post_image_static.jpg" width="250" height="250" mc:edit="image_3" style="max-width:250px;" border="0" alt="" /></td>
+															</tr>
+														</table>
+													</th>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+							<!-- END Two Columns / Images -->
+							
+							<!-- Two Columns / Text + Copy + Button -->
+							<div mc:repeatable="Select" mc:variant="Two Columns / Text + Copy + Button">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<tr>
+										<td style="padding-bottom: 0px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+									
+													<th class="column-top" bgcolor="#ffffff" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="p40" style="padding:20px 20px 5px 20px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															
+															<tr>
+																			<td class="h4 pb20" style="color:#114490; font-family:'Noto Sans', Arial,sans-serif; font-size:20px; line-height:5px; text-align:center; padding-bottom:20px;"><div mc:edit="text_16">SHOP BY CATEGORY</div></td>
+																		</tr>
+															
+																	</table>
+																</td>
+															</tr>
+														</table>
+													</th>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+							<!-- END Two Columns / Two Columns / Text + Copy + Button-->
+					
+		<!-- Start buttons -->
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td style="padding-bottom: 0px;">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td class="p30-15" style="padding: 0px 10px 10px 25px;" bgcolor="#ffffff">
+													<table width="100%" border="0" cellspacing="0" cellpadding="0">
+														<tr>
+															<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="images/button_blue.jpg" width="110" height="45" mc:edit="image_1" style="max-width:110px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+														
+															<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="images/button_blue.jpg" width="110" height="45" mc:edit="image_1" style="max-width:110px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+														
+                                                       	<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="images/button_blue.jpg" width="110" height="45" mc:edit="image_1" style="max-width:110px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+															
+																<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="images/button_blue.jpg" width="110" height="45" mc:edit="image_1" style="max-width:110px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+															
+															  	<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="images/button_blue.jpg" width="110" height="45" mc:edit="image_1" style="max-width:110px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+							<!-- END Buttons -->
+							
+							
+							<!-- Start buttons row two -->
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td style="padding-bottom: 0px;">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td class="p30-15" style="padding: 0px 30px 15px 30px;" bgcolor="#ffffff">
+													<table width="100%" border="0" cellspacing="0" cellpadding="0">
+														<tr>
+															<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:center;"><img src="images/button_blue.jpg" width="110" height="45" mc:edit="image_1" style="max-width:110px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+														
+															<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:center;"><img src="images/button_blue.jpg" width="110" height="45" mc:edit="image_1" style="max-width:110px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+														
+                                                       	<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:center;"><img src="images/button_blue.jpg" width="110" height="45" mc:edit="image_1" style="max-width:110px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+															
+																<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:center;"><img src="images/button_blue.jpg" width="110" height="45" mc:edit="image_1" style="max-width:110px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+							<!-- END Buttons row two-->
+
+	<!-- Two Columns / Text + Copy + Button -->
+							<div mc:repeatable="Select" mc:variant="Two Columns / Text + Copy + Button">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<tr>
+										<td style="padding-bottom: 0px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+									
+													<th class="column-top" bgcolor="#ffffff" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="p40" style="padding:5px 20px 5px 20px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															
+															<tr>
+																			<td class="h4 pb20" style="color:#114490; font-family:'Noto Sans', Arial,sans-serif; font-size:20px; line-height:5px; text-align:center; padding-bottom:20px;"><div mc:edit="text_16">LATEST RANGES</div></td>
+																		</tr>
+															
+																	</table>
+																</td>
+															</tr>
+														</table>
+													</th>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+							<!-- END Two Columns / Two Columns / Text + Copy + Button-->
+							
+							<!-- start latest range -->
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td style="padding-bottom: 0px;">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td class="p30-15" style="padding: 0px 30px 25px 30px;" bgcolor="#ffffff">
+													<table width="100%" border="0" cellspacing="0" cellpadding="0">
+														<tr>
+															<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:center;"><img src="images/latest_range.jpg" width="110" height="110" mc:edit="image_1" style="max-width:110px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+														
+															<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:center;"><img src="images/latest_range.jpg" width="110" height="110" mc:edit="image_1" style="max-width:110px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+														
+                                                       	<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:center;"><img src="images/latest_range.jpg" width="110" height="110" mc:edit="image_1" style="max-width:110px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+															
+																<th class="column-top" width="145" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td class="img m-center" style="font-size:0pt; line-height:0pt; text-align:center;"><img src="images/latest_range.jpg" width="110" height="110" mc:edit="image_1" style="max-width:110px;" border="0" alt="" /></td>
+																	</tr>
+																</table>
+															</th>
+
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+							<!-- end latest range-->
+							
+
+							<!-- Poll of the week / exercise -->
+							<div mc:repeatable="Select" mc:variant="Article Image On The Left">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<tr>
+										<td style="padding-bottom: 0px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+												<tr>
+													<td class="p40" style="padding:0px 20px 20px 20px;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<th class="column-top" width="225" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="images/poll_of_the_week.jpg" width="225" height="310" mc:edit="image_4" style="max-width:225x;" border="0" alt="" /></td>
+																		</tr>
+																	</table>
+																</th>
+																<th class="column-empty" width="10" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;"></th>
+																<th class="column-top" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+																		<!-- Button -->
+																		<tr mc:hideable>
+																			<td align="left">
+																				<table border="0" cellspacing="0" cellpadding="0">
+																				<tr>
+																			<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="images/exercise_with_baby.jpg" width="375" height="310" mc:edit="image_4" style="max-width:375px;" border="0" alt="" /></td>
+																		</tr>
+																				</table>
+																			</td>
+																		</tr>
+																		<!-- END Button -->
+																	</table>
+																</th>
+															</tr>
+														</table>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+						<!-- End Poll of the week / exercise -->
+						
+
+							<!-- random fact -->
+							<div mc:repeatable="Select" mc:variant="Article Image On The Left">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<tr>
+										<td style="padding-bottom: 0px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+												<tr>
+													<td class="p40" style="padding:0px 20px 0px 20px;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<th class="column-top" width="225" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="images/random_fact.jpg" width="610" height="70" mc:edit="image_4" style="max-width:610px;" border="0" alt="" /></td>
+																		</tr>
+																	</table>
+																</th>
+															</tr>
+														</table>
+													</td>
+												</tr>
+
+											</table>
+											
+										</td>
+									</tr>
+								</table>
+							</div>
+
+						<!-- End random fact -->	
+
+							<!-- start essential products -->
+							<div mc:repeatable="Select" mc:variant="Two Columns / Secondary /Text + Copy + Button">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<tr>
+										<td style="padding-bottom: 20px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<th class="column-top" bgcolor="#ffffff" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="p40" style="padding:20px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr>
+																	<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="images/essential_products.jpg" width="610" height="70" mc:edit="image_4" style="max-width:610px;" border="0" alt="" /></td>
+																		</tr>
+																
+																		<!-- Button -->
+															
+																	</table>
+																</td>
+															</tr>
+														</table>
+													</th>
+
+												</tr>
+												
+															<tr>
+													<th class="column-top" bgcolor="#ffffff" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+
+																<td class="p40" style="padding:0px 20px 20px 20px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	
+																		<tr>
+
+																	<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+																	<img src="images/essential_products.jpg" width="610" height="70" mc:edit="image_4" style="max-width:610px;" border="0" alt="" />
+																	</td>
+																	
+																	
+
+																		</tr>
+
+
+
+																	</table>
+																</td>
+															</tr>
+															
+														</table>
+													</th>
+												</tr>
+												
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+							<!-- end essential products-->
+							
+							
+							
+
+							<!-- Article Image On The Right -->
+							<div mc:repeatable="Select" mc:variant="Article Image On The Right">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<tr>
+										<td style="padding-bottom: 20px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+												<tr>
+													<td class="p40" style="padding:40px;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0" dir="rtl" style="direction: rtl;">
+															<tr>
+																<th class="column-dir-top" dir="ltr" width="225" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; direction:ltr; vertical-align:top;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="images/t8_image4.jpg" width="225" height="170" mc:edit="image_5" style="max-width:225px;" border="0" alt="" /></td>
+																		</tr>
+																	</table>
+																</th>
+																<th class="column-empty" dir="ltr" width="30" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;"></th>
+																<th class="column-dir-top" dir="ltr" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; direction:ltr; vertical-align:top;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td class="h4 pb20" style="color:#114490; font-family:'Noto Sans', Arial,sans-serif; font-size:20px; line-height:28px; text-align:left; padding-bottom:20px;"><div mc:edit="text_25">Lorem ipsum</div></td>
+																		</tr>
+																		<tr>
+																			<td class="text pb20" style="color:#777777; font-family:'Noto Sans', Arial,sans-serif; font-size:14px; line-height:26px; text-align:left; padding-bottom:20px;"><div mc:edit="text_26">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div></td>
+																		</tr>
+																		<!-- Button -->
+																		<tr mc:hideable>
+																			<td align="left">
+																				<table border="0" cellspacing="0" cellpadding="0">
+																					<tr>
+																						<td class="text-button" style="background:#114490; color:#ffffff; font-family:'Noto Sans', Arial,sans-serif; font-size:14px; line-height:18px; padding:12px 20px; text-align:center; border-radius:6px;"><div mc:edit="text_27"><a href="#" target="_blank" class="link-white" style="color:#ffffff; text-decoration:none;"><span class="link-white" style="color:#ffffff; text-decoration:none;">FIND OUT MORE</span></a></div></td>
+																					</tr>
+																				</table>
+																			</td>
+																		</tr>
+																		<!-- END Button -->
+																	</table>
+																</th>
+															</tr>
+														</table>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+							<!-- Article Image On The Right -->
+
+							<!-- Two Columns / Images + Title + Copy + Button -->
+							<div mc:repeatable="Select" mc:variant="Two Columns / Images + Title + Copy + Button">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<tr>
+										<td style="padding-bottom: 20px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<th class="column-top" width="235" bgcolor="#ffffff" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="p40" style="padding:40px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td class="fluid-img pb20" style="font-size:0pt; line-height:0pt; text-align:left; padding-bottom:20px;"><img src="images/t8_image5.jpg" width="235" height="177" mc:edit="image_6" style="max-width:235px;" border="0" alt="" /></td>
+																		</tr>
+																		<tr>
+																			<td class="h4 pb15" style="color:#114490; font-family:'Noto Sans', Arial,sans-serif; font-size:20px; line-height:28px; text-align:left; padding-bottom:15px;"><div mc:edit="text_28">Lorem ipsum dolor sit</div></td>
+																		</tr>
+																		<tr>
+																			<td class="text pb20" style="color:#777777; font-family:'Noto Sans', Arial,sans-serif; font-size:14px; line-height:26px; text-align:left; padding-bottom:20px;"><div mc:edit="text_29">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div></td>
+																		</tr>
+																		<!-- Button -->
+																		<tr mc:hideable>
+																			<td align="left">
+																				<table border="0" cellspacing="0" cellpadding="0">
+																					<tr>
+																						<td class="text-button" style="background:#114490; color:#ffffff; font-family:'Noto Sans', Arial,sans-serif; font-size:14px; line-height:18px; padding:12px 20px; text-align:center; border-radius:6px;"><div mc:edit="text_30"><a href="#" target="_blank" class="link-white" style="color:#ffffff; text-decoration:none;"><span class="link-white" style="color:#ffffff; text-decoration:none;">FIND OUT MORE</span></a></div></td>
+																					</tr>
+																				</table>
+																			</td>
+																		</tr>
+																		<!-- END Button -->
+																	</table>
+																</td>
+															</tr>
+														</table>
+													</th>
+													<th class="column-empty2" width="20" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;"></th>
+													<th class="column-top" width="235" bgcolor="#ffffff" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; vertical-align:top;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="p40" style="padding:40px;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td class="fluid-img pb20" style="font-size:0pt; line-height:0pt; text-align:left; padding-bottom:20px;"><img src="images/t8_image6.jpg" width="235" height="177" mc:edit="image_7" style="max-width:235px;" border="0" alt="" /></td>
+																		</tr>
+																		<tr>
+																			<td class="h4 pb15" style="color:#114490; font-family:'Noto Sans', Arial,sans-serif; font-size:20px; line-height:28px; text-align:left; padding-bottom:15px;"><div mc:edit="text_31">Lorem ipsum dolor sit</div></td>
+																		</tr>
+																		<tr>
+																			<td class="text pb20" style="color:#777777; font-family:'Noto Sans', Arial,sans-serif; font-size:14px; line-height:26px; text-align:left; padding-bottom:20px;"><div mc:edit="text_32">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div></td>
+																		</tr>
+																		<!-- Button -->
+																		<tr mc:hideable>
+																			<td align="left">
+																				<table border="0" cellspacing="0" cellpadding="0">
+																					<tr>
+																						<td class="text-button" style="background:#114490; color:#ffffff; font-family:'Noto Sans', Arial,sans-serif; font-size:14px; line-height:18px; padding:12px 20px; text-align:center; border-radius:6px;"><div mc:edit="text_33"><a href="#" target="_blank" class="link-white" style="color:#ffffff; text-decoration:none;"><span class="link-white" style="color:#ffffff; text-decoration:none;">FIND OUT MORE</span></a></div></td>
+																					</tr>
+																				</table>
+																			</td>
+																		</tr>
+																		<!-- END Button -->
+																	</table>
+																</td>
+															</tr>
+														</table>
+													</th>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+							<!-- END Two Columns / Images + Title + Copy + Button -->
+
+							<!-- Footer -->
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td class="p30-15" style="padding: 50px 30px;" bgcolor="#ffffff">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td align="center" style="padding-bottom: 30px;">
+													<table border="0" cellspacing="0" cellpadding="0">
+														<tr>
+															<td class="img" width="55" style="font-size:0pt; line-height:0pt; text-align:left;"><a href="#" target="_blank"><img src="images/t8_ico_facebook.jpg" width="38" height="38" mc:edit="image_8" style="max-width:38px;" border="0" alt="" /></a></td>
+															<td class="img" width="55" style="font-size:0pt; line-height:0pt; text-align:left;"><a href="#" target="_blank"><img src="images/t8_ico_twitter.jpg" width="38" height="38" mc:edit="image_9" style="max-width:38px;" border="0" alt="" /></a></td>
+															<td class="img" width="55" style="font-size:0pt; line-height:0pt; text-align:left;"><a href="#" target="_blank"><img src="images/t8_ico_instagram.jpg" width="38" height="38" mc:edit="image_10" style="max-width:38px;" border="0" alt="" /></a></td>
+															<td class="img" width="38" style="font-size:0pt; line-height:0pt; text-align:left;"><a href="#" target="_blank"><img src="images/t8_ico_linkedin.jpg" width="38" height="38" mc:edit="image_11" style="max-width:38px;" border="0" alt="" /></a></td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+											<tr>
+												<td class="text-footer1 pb10" style="color:#999999; font-family:'Noto Sans', Arial,sans-serif; font-size:16px; line-height:20px; text-align:center; padding-bottom:10px;"><div mc:edit="text_34">Webweaver - Free HTML Email Template</div></td>
+											</tr>
+											<tr>
+												<td class="text-footer2 pb30" style="color:#999999; font-family:'Noto Sans', Arial,sans-serif; font-size:12px; line-height:26px; text-align:center; padding-bottom:30px;"><div mc:edit="text_35">East Pixel Bld. 99, Creative City 9000, Republic of Design</div></td>
+											</tr>
+											<tr>
+												<td class="text-footer3" style="color:#c0c0c0; font-family:'Noto Sans', Arial,sans-serif; font-size:12px; line-height:18px; text-align:center;"><div mc:edit="text_36"><a class="link3-u" target="_blank" href="*|UNSUB|*" style="color:#c0c0c0; text-decoration:underline;">Unsubscribe</a></div> from this mailing list.</td>
+											</tr>
+											<tr>
+												<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">
+													<div mc:edit="text_37">
+														<!--[if !mso]><!-->
+															*|LIST:DESCRIPTION|*
+															*|LIST:ADDRESS|*
+															*|REWARDS_TEXT|*
+														<!--<![endif]-->
+													</div>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+							<!-- END Footer -->
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
